@@ -1,6 +1,9 @@
-### ✨ Hi there, I'm Khyati ✨
-- A <b>passionate Frontend web developer</b> 🎯 with 4yrs of experience, contributing to change the world by coding.
-- I am also <b>Learning new things</b> || A good <b>communicator</b> || VERY <b>organized</b>
+# <p align="center">✨ Hi there 👋, I'm Khyati Bardolia ✨</p>
+                                          
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khyatibardolia&label=Profile%20views&color=0e75b6&style=flat" alt="khyatibardolia" /> </p>
+- 👨‍💻 A <b>passionate Frontend web developer</b> 🎯 with 4yrs of experience, contributing to change the world by coding.
+- 📝 I am also <b>Learning new things</b> || A good <b>communicator</b> || VERY <b>organized</b>
+- 🌱 A <b>problem solver who loves to craft <b>innovative solutions</b> through code.
 
 
 ### ✨ Languages and Tools ✨
